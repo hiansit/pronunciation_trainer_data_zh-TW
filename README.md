@@ -43,4 +43,6 @@ https://language.moe.gov.tw/index
 
 ## ライセンス
 本リポジトリで独自に付加したデータ（翻訳・発音記号・TSVの構造化）については、MITライセンスの下で公開します。
-MIT License — 自由に利用・改変・再配布できます。
+
+
+[MIT License](LICENSE) — 自由に利用・改変・再配布できます。
