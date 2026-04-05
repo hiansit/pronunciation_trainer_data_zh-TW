@@ -1,8 +1,9 @@
 # 繁体字中国語 頻出単語リスト（発音・日本語訳付き）
 
-本リポジトリでは、台湾の標準的な繁体字中国語の学習用データ（TSV形式）を公開しています。発音特訓アプリ
-　リポジトリ https://github.com/hiansit/pronunciation_trainer_v1
-　Github Pages https://hiansit.github.io/pronunciation_trainer_v1
+本リポジトリでは、台湾の標準的な繁体字中国語の学習用データ（TSV形式）を公開しています。
+
+発音特訓アプリ https://github.com/hiansit/pronunciation_trainer_v1
+
 のインポートデータ等として利用可能です。
 
 ## データ仕様
