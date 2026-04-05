@@ -1,0 +1,2 @@
+# hiansit-pronunciation_trainer_data
+pronunciation_trainer用の教材データ
